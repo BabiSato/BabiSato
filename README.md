@@ -1,14 +1,60 @@
 <div align="center">
-  <img src="https://github.com/BabiSato/BabiSato/blob/main/television%20color%20GIF.gif?raw=true" alt="GIF animado" />
+  <img src="https://github.com/BabiSato/BabiSato/blob/main/television%20color%20GIF.gif?raw=true" alt="Cyberpunk TV GIF" />
 </div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&width=435&lines=Olá%2C+eu+sou+a+Babi+Sato!;Desenvolvedora+em+constante+evolução 🚀;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=FF70A6&center=true&vCenter=true&width=480&lines=Olá,+sou+Babi+Sato!;Desenvolvedora+criativa+e+curiosa.;新しい日の誕生+-+Nascimento+de+um+novo+dia" alt="Typing SVG" />
 </h1>
 
 ---
 
-## 📘 &nbsp;Status
+## Sobre mim
+
+Olá, pessoal!
+
+Sou **Babi Sato**, apaixonada por tecnologia, dados e segurança digital.
+
+Atualmente atuo como **Analista de Processos Júnior na Prodesp – Companhia de Processamento de Dados do Estado de São Paulo**, onde colaboro com a **melhoria contínua de fluxos, otimização de processos e suporte à eficiência operacional em projetos voltados à tecnologia pública**.
+
+🎓 **Formada em Análise e Desenvolvimento de Sistemas**, sigo me especializando com foco em **Cybersegurança Ofensiva**, área que me inspira a construir soluções seguras e inteligentes.
+
+ Minha trajetória inclui experiências valiosas:
+
+-  **LWSA – Analista de Suporte Técnico I**  
+  Prestei suporte direto a clientes, diagnosticando incidentes e propondo melhorias em soluções digitais.
+
+-  **PwC – Jovem Aprendiz (Sustentabilidade & Dados)**  
+  Automatizei relatórios com Excel avançado e Power BI, gerando insights de impacto social.
+
+-  **UniFECAF – Estagiária Administrativa**  
+  Melhoria de processos acadêmicos e rotinas administrativas.
+
+ **Habilidades técnicas:**
+- Linguagens: Python, Java, JavaScript, TypeScript, SQL, C  
+- Banco de dados: MySQL, SQL Server  
+- Web: HTML, CSS  
+- Outros: Redes, Arquitetura de Sistemas, Data Center, Métodos Ágeis (Scrum)
+
+ Estou sempre estudando com foco em **Segurança da Informação, Pentest, Back-End e Análise de Dados**, construindo uma base sólida para evoluir na área de tecnologia.
+
+---
+
+## ⚙️ Tecnologias que uso
+
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-333333?style=flat-square&logo=figma&logoColor=white)
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
+
+---
+
+## 📘 &nbsp;Status GitHub
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=BabiSato&theme=bear&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
@@ -18,7 +64,7 @@
 
 ---
 
-## 🖥️ &nbsp;Atividade
+## 🔁 &nbsp;Atividade Recente
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=BabiSato&theme=bear&bg_color=20232a&hide_border=true" width="100%" alt="Activity Graph" />
