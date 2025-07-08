@@ -2,44 +2,44 @@
   <img src="https://github.com/BabiSato/BabiSato/blob/main/television%20color%20GIF.gif?raw=true" alt="Cyberpunk TV GIF" />
 </div>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=FF70A6&center=true&vCenter=true&width=480&lines=Olá,+sou+Babi+Sato!;Desenvolvedora+criativa+e+curiosa.;新しい日の誕生+-+Nascimento+de+um+novo+dia" alt="Typing SVG" />
-</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=FF70A6&center=true&vCenter=true&width=480&lines=Olá,+sou+Babi+Sato!;Desenvolvedora+Cyberpunk+em+evolução;新しい日の誕生+-+Nascimento+de+um+novo+dia" alt="Typing SVG" />
+</p>
 
 ---
 
 ## Sobre mim
 
-Olá, pessoal!
+Olá, pessoal
 
-Sou **Babi Sato**, apaixonada por tecnologia, dados e segurança digital.
+Sou Babi Sato, apaixonada por tecnologia, dados e segurança digital.
 
-Atualmente atuo como **Analista de Processos Júnior na Prodesp – Companhia de Processamento de Dados do Estado de São Paulo**, onde colaboro com a **melhoria contínua de fluxos, otimização de processos e suporte à eficiência operacional em projetos voltados à tecnologia pública**.
+Atualmente atuo como Analista de Processos Júnior na Prodesp – Companhia de Processamento de Dados do Estado de São Paulo, colaborando com a melhoria contínua de fluxos, otimização de processos e suporte à eficiência operacional em projetos voltados à tecnologia pública.
 
-🎓 **Formada em Análise e Desenvolvimento de Sistemas**, sigo me especializando com foco em **Cybersegurança Ofensiva**, área que me inspira a construir soluções seguras e inteligentes.
+Formada em Análise e Desenvolvimento de Sistemas, sigo me especializando com foco em Cybersegurança Ofensiva, área que me inspira a construir soluções seguras e inteligentes.
 
- Minha trajetória inclui experiências valiosas:
+Minha trajetória inclui:
 
--  **LWSA – Analista de Suporte Técnico I**  
-  Prestei suporte direto a clientes, diagnosticando incidentes e propondo melhorias em soluções digitais.
+- LWSA – Analista de Suporte Técnico I  
+  Atendimento a clientes, diagnóstico de incidentes e melhorias em soluções digitais.
 
--  **PwC – Jovem Aprendiz (Sustentabilidade & Dados)**  
-  Automatizei relatórios com Excel avançado e Power BI, gerando insights de impacto social.
+- PwC – Jovem Aprendiz (Sustentabilidade & Dados)  
+  Automatização de relatórios com Excel avançado e Power BI.
 
--  **UniFECAF – Estagiária Administrativa**  
-  Melhoria de processos acadêmicos e rotinas administrativas.
+- UniFECAF – Estagiária Administrativa  
+  Rotinas administrativas e melhorias de processos acadêmicos.
 
- **Habilidades técnicas:**
+Habilidades técnicas:
 - Linguagens: Python, Java, JavaScript, TypeScript, SQL, C  
 - Banco de dados: MySQL, SQL Server  
 - Web: HTML, CSS  
 - Outros: Redes, Arquitetura de Sistemas, Data Center, Métodos Ágeis (Scrum)
 
- Estou sempre estudando com foco em **Segurança da Informação, Pentest, Back-End e Análise de Dados**, construindo uma base sólida para evoluir na área de tecnologia.
+Estou em constante aprendizado, focando em Segurança da Informação, Pentest, Back-End e Análise de Dados.
 
 ---
 
-## ⚙️ Tecnologias que uso
+## Tecnologias que uso
 
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
@@ -54,7 +54,7 @@ Atualmente atuo como **Analista de Processos Júnior na Prodesp – Companhia de
 
 ---
 
-## 📘 &nbsp;Status GitHub
+## Status GitHub
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=BabiSato&theme=bear&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
@@ -64,7 +64,7 @@ Atualmente atuo como **Analista de Processos Júnior na Prodesp – Companhia de
 
 ---
 
-## 🔁 &nbsp;Atividade Recente
+## Atividade Recente
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=BabiSato&theme=bear&bg_color=20232a&hide_border=true" width="100%" alt="Activity Graph" />
@@ -72,7 +72,7 @@ Atualmente atuo como **Analista de Processos Júnior na Prodesp – Companhia de
 
 ---
 
-## 🏆 &nbsp;Recompensas
+## Recompensas
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=BabiSato&theme=dracula&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
@@ -80,10 +80,7 @@ Atualmente atuo como **Analista de Processos Júnior na Prodesp – Companhia de
 
 ---
 
-## 📫 &nbsp;Onde me encontrar
+## Onde me encontrar
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/barbara-nayumi-301433241)
-- 🌐 [GitHub](https://github.com/BabiSato)
-
----
-
+- [LinkedIn](https://www.linkedin.com/in/barbara-nayumi-301433241)  
+- [GitHub](https://github.com/BabiSato)
