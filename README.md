@@ -1,41 +1,29 @@
-# 👋 Olá! Eu sou a Barbara Nayumi
+https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2FhYnFyMzBtbjZlbnp1YWtuN3k4OXo3MTFyMjk3ZDUzaTkwdmZxbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/p71BYIPogqBPy/giphy.gif
 
-Sou apaixonada por tecnologia, desenvolvimento e aprendizado contínuo. Sempre em busca de novos desafios e oportunidades para crescer como desenvolvedora.
+!Typing SVG
 
----
+# &nbsp;Status 📘
 
-## 🚀 Tecnologias e Ferramentas
-- HTML, CSS, JavaScript
-- Python, Node.js
-- Git & GitHub
-- SQL, NoSQL
-- APIs REST
+<p>
+  https://github-readme-stats.vercel.app/api?username=BabiSato&theme=bear&hide_border=false&include_all_commits=true&count_private=true
+</p>
+<p>
+  https://github-readme-streak-stats.herokuapp.com/?user=BabiSato&theme=bear&hide_border=false
+</p>
+<p>
+  https://github-readme-stats.vercel.app/api/top-langs/?username=BabiSato&theme=bear&hide_border=false&layout=compact
+</p>
+<p>
+  https://github-readme-activity-graph.vercel.app/graph?username=BabiSato&theme=bear&bg_color=20232a&hide_border=true
+</p>
 
----
+## 🖥 &nbsp;Recompensas 📘
 
-## 📊 Estatísticas do GitHub
-
-!BabiSato's GitHub stats
-
-!GitHub Streak
-
-!Top Langs
-
----
-
-## 🏆 Conquistas
-- ✅ Pull Requests mesclados
-- 🐛 Issues abertas e resolvidas
-- 🔍 Revisões de código colaborativas
-- 🌱 Projetos pessoais em constante evolução
+!
 
 ---
 
 ## 📫 Onde me encontrar
-- LinkedIn
+
+- [LinkedIn](https://www.linkedin.com/in/barbara-nayumi-301433241)
 - GitHub
-
----
-
-✨ Obrigada por visitar meu perfil!
-
