@@ -12,7 +12,7 @@
 
 Olá, pessoal
 
-Sou Babi Sato, apaixonada por tecnologia, dados e segurança digital.
+Sou a Babi, apaixonada por tecnologia, dados e segurança digital.
 
 Atualmente atuo como Analista de Processos Júnior na Prodesp – Companhia de Processamento de Dados do Estado de São Paulo, colaborando com a melhoria contínua de fluxos, otimização de processos e suporte à eficiência operacional em projetos voltados à tecnologia pública.
 
